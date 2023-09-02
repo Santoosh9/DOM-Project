@@ -1,10 +1,21 @@
+body {
+  hight: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #678cc7;
+}
+
 .container {
   text-align: center;
-  margin-top: 25px;
+  margin-top: 35px;
+  align-items: center;
+  justify-content: center;
+  background-color: #5d7eb3;
 }
 table {
   margin: auto;
-  background-color: red;
 }
 
 input {
